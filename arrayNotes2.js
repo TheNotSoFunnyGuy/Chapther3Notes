@@ -67,15 +67,15 @@ emptyArray2( [] )
 // greaterThan([3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
 
 //8
+
+
+//9
 // function uniqueValue(arr){
 //     console.log(arr[4])
 //     console.log(arr[14])
 //     console.log(arr[18])
 // }
 // uniqueValue([3,3,3,3,4,3,3,5,5,5,5,5,5,5,8,5,5,5,9,5,5])
-
-//9
-
 
 //10
 // function notUnique(arr){
