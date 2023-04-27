@@ -1,14 +1,14 @@
 //1
-// function printFirst(arr){
-//     console.log( arr[0] )
-// }
-// printFirst( [7, 5, 3, 1] )
+function printFirst(arr){
+    console.log( arr[0] )
+}
+printFirst( [7, 5, 3, 1] )
 
 //2
-// function printLast(arr){
-//     console.log( arr[3] )
-// }
-// printLast( [7, 5, 3, 1] )
+function printLast(arr){
+    console.log( arr[3] )
+}
+printLast( [7, 5, 3, 1] )
 
 //3
 function emptyArray(arr){
@@ -34,23 +34,23 @@ emptyArray2( [] )
 //4
 
 
-//5
-// function thirdElement(arr){
-//     console.log( arr[2] )
-//     console.log( arr[5] )
-//     console.log( arr[8] )
-// }
-// thirdElement([3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+5
+function thirdElement(arr){
+    console.log( arr[2] )
+    console.log( arr[5] )
+    console.log( arr[8] )
+}
+thirdElement([3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
 
 //6
-// function secondElement(arr){
-//     console.log( arr[1] )
-//     console.log( arr[3] )
-//     console.log( arr[5] )
-//     console.log( arr[7] )
-//     console.log( arr[9] )
-// }
-// secondElement([3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
+function secondElement(arr){
+    console.log( arr[1] )
+    console.log( arr[3] )
+    console.log( arr[5] )
+    console.log( arr[7] )
+    console.log( arr[9] )
+}
+secondElement([3, 4, 5, 6, 7, 8, 9, 10, 11, 12])
 
 //7
 // function greaterThan(arr){
